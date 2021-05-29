@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Maarthan aka Manoj M
+- 👀 I’m interested in all things web development
+- 🌱 I’m currently learning React, Angular, Node JS, Express JS, PostgreSQL, Springboot
+- Updates coming soon ...
